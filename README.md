@@ -2,8 +2,8 @@
  
 AI Engineer in the making. I like doing interesting things the **hard way** — because simple is just too easy. 🙃
  
-Informatics Engineering student @ **Institut Teknologi Sumatera**<br>
-Learner @ **Apple Developer Academy IL**
+- Informatics Engineering student @ **Institut Teknologi Sumatera**
+- Learner @ **Apple Developer Academy IL**
  
 ---
  
